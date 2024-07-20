@@ -1,5 +1,2 @@
-book_title =  ['great', 'expectations','the', 'adventures', 'of', 'sherlock','holmes','the','great','gasby','hamlet','adventures','of','huckleberry','fin']
-book_count = {}
-for i in book_title:
-    book_count[i] = book_count.get(i,0)+1
-print(book_count)
+correct_answer = "Local Bear Eaten by Man Legislature Announces New Laws Peasant Discovers Violence Inherent in System Cat Rescues Fireman Stuck in Tree Brave"
+print(len(correct_answer))
