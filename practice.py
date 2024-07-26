@@ -1,8 +1,4 @@
-import numpy as np
-import math
-l = [5,6,7]
+items = ['s', 'p', 'a', 'm']
+for i, item in enumerate(items):
+    print()
 
-output = [math.e**i for i in l]
-print(sum(output))
-#output = np.exp(l)
-#print(list(output))
