@@ -5,5 +5,7 @@ for i, item in enumerate(items):
 # This is so gay
 # Im doing the fricking work and i have to do this have a commited day
 # So stupid
+# How much I care about how I look!?
+# What that ever do anything for me?
 
 
